@@ -77,9 +77,11 @@ const allProjects = [
   },
 ];
 
-// export const metadata = {
-//   title: "Fatima`s All Projects",
-// };
+export const metadata = {
+  title: "Projects | Fatima Guliyeva Frontend Developer",
+  description:
+    "Frontend projects by Fatima Guliyeva built with React, Next.js and Tailwind CSS.",
+};
 
 export default function ProjectsPage() {
   return (

@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://fatima-guliyeva.vercel.app
+
+# Sitemaps
+Sitemap: https://fatima-guliyeva.vercel.app/sitemap.xml

@@ -1,8 +1,10 @@
 import MyGallery from "../components/homepage/myGallery";
 
-// export const metadata = {
-//   title: "Fatima`s All Projects",
-// };
+export const metadata = {
+  title: "InnoHub Dashboard Project | Fatima Guliyeva",
+  description:
+    "Admin dashboard project built with Next.js and Tailwind CSS.",
+};
 
 export default function ProjectsPage() {
   return (

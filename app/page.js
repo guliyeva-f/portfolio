@@ -5,32 +5,23 @@ import HeroSection from "./components/homepage/hero-section";
 import Projects from "./components/homepage/projects";
 import Skills from "./components/homepage/skills";
 
-// export const metadata = {
-//   title: "Fatima Guliyeva | Frontend Developer Portfolio",
-//   description:
-//     "Portfolio of Fatima Guliyeva, a Frontend Developer specializing in React, Next.js, Tailwind CSS, and modern web applications.",
-//   keywords: [
-//     "Fatima Guliyeva",
-//     "Fatima Guliyeva portfolio",
-//     "Fatima frontend developer",
-//     "frontend developer",
-//     "react developer",
-//     "nextjs developer",
-//     "web developer portfolio",
-//     "fatima guliyeva frontend",
-//   ],
-//   authors: [{ name: "Fatima Guliyeva" }],
-//   creator: "Fatima Guliyeva",
-//   applicationName: "Fatima Guliyeva Portfolio",
-//   openGraph: {
-//     title: "Fatima Guliyeva — Frontend Developer",
-//     description:
-//       "Explore projects, skills, and experience of Frontend Developer Fatima Guliyeva.",
-//     url: "https://guliyeva-f-portfolio.vercel.app",
-//     siteName: "Fatima Guliyeva Portfolio",
-//     type: "website",
-//   },
-// };
+export const metadata = {
+  title:
+    "Fatima Guliyeva | Frontend Developer Portfolio | Fatimə Quliyeva",
+
+  description:
+    "Fatima Guliyeva is a Frontend Developer specializing in React, Next.js, Tailwind CSS, and modern web applications. Bu səhifə Fatimə Quliyevanın frontend layihələri, bacarıqları və peşəkar təcrübəsini təqdim edir.",
+
+  keywords: [
+    "Fatima Guliyeva",
+    "Fatimə Quliyeva",
+    "Fatima Guliyeva portfolio",
+    "frontend developer",
+    "react developer",
+    "nextjs developer",
+    "Azerbaijan frontend developer",
+  ],
+};
 
 export default async function Home() {
   return (
